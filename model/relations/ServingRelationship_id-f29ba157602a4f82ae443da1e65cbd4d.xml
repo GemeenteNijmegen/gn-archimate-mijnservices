@@ -1,7 +1,6 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="6, Redirect"
     id="id-f29ba157602a4f82ae443da1e65cbd4d">
   <source
       xsi:type="archimate:ApplicationComponent"
